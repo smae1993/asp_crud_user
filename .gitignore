@@ -1,6 +1,7 @@
 # Build outputs
 bin/
 obj/
+obj
 
 # VS/VS Code files
 .vscode/
