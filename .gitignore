@@ -20,7 +20,6 @@ appsettings.*.json
 !appsettings.json   # فقط فایل اصلی رو نگه داریم
 
 # EF Core Migrations snapshot temp files
-*Migrations/*Designer.cs
 *Migrations/*.resx
 
 # SQLite local database files
